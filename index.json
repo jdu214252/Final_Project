@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "GIGABYTE AORUS 17X",
+    "price": "2.699",
+    "image": "image01.jpg"
+   
+  },
+  
+  {
+    "id": 2,
+    "name": "Hasee T8",
+    "price": "1.269",
+    "image": "image02.jpg"
+    
+  },
+  {
+    "id": 3,
+    "name": "Colorful Gaming Laptop",
+    "price": "999",
+    "image": "image03.jpg"
+   
+  },  
+
+  {
+    "id": 4,
+    "name": "Asus ROG Phone 6 ",
+    "price": "1.699",
+    "image": "image04.jpg"
+    
+  },
+  {
+    "id": 5,
+    "name": "Nubia RedMagic 7",
+    "price": "899",
+    "image": "image05.jpg"
+   
+  },
+  
+  {
+    "id": 6,
+    "name": "Xiaomi Black Shark 4S Pro",
+    "price": "899",
+    "image": "image06.jpg"
+    
+  },
+  {
+    "id": 7,
+    "name": "PlayStation®5 Console",
+    "price": "499",
+    "image": "image07.jpg"
+    
+  },
+  {
+    "id": 8,
+    "name": "  xbox series x",
+    "price": "  749",
+    "image": "image08.jpg"
+    
+  },
+  {
+    "id": 9,
+    "name": "  Автономный VR шлем Pico 4",
+    "price": "  1.629",
+    "image": "image09.jpg"
+    
+  }
+  
+]
