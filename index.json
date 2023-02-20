@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "GIGABYTE AORUS 17X",
-    "price": "2.699",
+    "price": "2699",
     "image": "image01.jpg"
    
   },
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Hasee T8",
-    "price": "1.269",
+    "price": "1269",
     "image": "image02.jpg"
     
   },
@@ -25,7 +25,7 @@
   {
     "id": 4,
     "name": "Asus ROG Phone 6 ",
-    "price": "1.699",
+    "price": "1699",
     "image": "image04.jpg"
     
   },
@@ -42,7 +42,7 @@
     "name": "Xiaomi Black Shark 4S Pro",
     "price": "899",
     "image": "image06.jpg"
-    
+  
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
   {
     "id": 9,
     "name": "  Автономный VR шлем Pico 4",
-    "price": "  1.629",
+    "price": "  1629",
     "image": "image09.jpg"
     
   }
